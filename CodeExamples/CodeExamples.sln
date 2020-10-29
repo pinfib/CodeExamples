@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorTask", "VectorTask\Ve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListTask", "ListTask\ListTask.csproj", "{81F34897-6189-48B8-AC5A-964DAC4DB377}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTask", "TreeTask\TreeTask.csproj", "{CE4BFC10-2B81-44FC-BFFD-43D37F2EF91A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{81F34897-6189-48B8-AC5A-964DAC4DB377}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81F34897-6189-48B8-AC5A-964DAC4DB377}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81F34897-6189-48B8-AC5A-964DAC4DB377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4BFC10-2B81-44FC-BFFD-43D37F2EF91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4BFC10-2B81-44FC-BFFD-43D37F2EF91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4BFC10-2B81-44FC-BFFD-43D37F2EF91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4BFC10-2B81-44FC-BFFD-43D37F2EF91A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
